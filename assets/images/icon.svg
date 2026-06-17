@@ -1,0 +1,77 @@
+<svg viewBox="0 0 48 48" width="48" height="48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="clip">
+    <circle cx="24" cy="24" r="24"/>
+  </clipPath>
+  <g clip-path="url(#clip)">
+    <path fill="#fff" d="M0 0h48v48H0z"/>
+    <path fill="#eef" d="M0 7h48v34H0z"/>
+    <path fill="#778" d="M41 35h6v6h-6z"/>
+    <path fill="#99a" d="M41 35h6v5h-6z"/>
+    <path fill="#778" d="M6 35h34v6H6z"/>
+    <path fill="#99a" d="M6 35h34v5H6z"/>
+    <path fill="#778" d="M0 35h5v6H0z"/>
+    <path fill="#99a" d="M0 35h5v5H0z"/>
+    <path fill="#aab" d="M41 28h6v6h-6z"/>
+    <path fill="#ccd" d="M41 28h6v5h-6z"/>
+    <path fill="#6bd" d="M34 28h6v6h-6z"/>
+    <path fill="#8df" d="M34 28h6v5h-6z"/>
+    <path fill="#aab" d="M27 28h6v6h-6z"/>
+    <path fill="#ccd" d="M27 28h6v5h-6z"/>
+    <path fill="#58b" d="M20 28h6v6h-6z"/>
+    <path fill="#7ad" d="M20 28h6v5h-6z"/>
+    <path fill="#aab" d="M13 28h6v6h-6z"/>
+    <path fill="#ccd" d="M13 28h6v5h-6z"/>
+    <path fill="#aab" d="M6 28h6v6H6z"/>
+    <path fill="#ccd" d="M6 28h6v5H6z"/>
+    <path fill="#aab" d="M0 28h5v6H0z"/>
+    <path fill="#ccd" d="M0 28h5v5H0z"/>
+    <path fill="#aab" d="M45 21h3v6h-3z"/>
+    <path fill="#ccd" d="M45 21h3v5h-3z"/>
+    <path fill="#dc6" d="M38 21h6v6h-6z"/>
+    <path fill="#fe8" d="M38 21h6v5h-6z"/>
+    <path fill="#aab" d="M31 21h6v6h-6z"/>
+    <path fill="#ccd" d="M31 21h6v5h-6z"/>
+    <path fill="#eef" d="M33 24h2v1h-2z"/>
+    <path fill="#aab" d="M24 21h6v6h-6z"/>
+    <path fill="#ccd" d="M24 21h6v5h-6z"/>
+    <path fill="#aab" d="M17 21h6v6h-6z"/>
+    <path fill="#ccd" d="M17 21h6v5h-6z"/>
+    <path fill="#d66" d="M10 21h6v6h-6z"/>
+    <path fill="#f88" d="M10 21h6v5h-6z"/>
+    <path fill="#eef" d="M12 24h2v1h-2z"/>
+    <path fill="#aab" d="M3 21h6v6H3z"/>
+    <path fill="#ccd" d="M3 21h6v5H3z"/>
+    <path fill="#aab" d="M0 21h2v6H0z"/>
+    <path fill="#ccd" d="M0 21h2v5H0z"/>
+    <path fill="#aab" d="M43 14h5v6h-5z"/>
+    <path fill="#ccd" d="M43 14h5v5h-5z"/>
+    <path fill="#6a6" d="M36 14h6v6h-6z"/>
+    <path fill="#8c8" d="M36 14h6v5h-6z"/>
+    <path fill="#da4" d="M29 14h6v6h-6z"/>
+    <path fill="#fc6" d="M29 14h6v5h-6z"/>
+    <path fill="#aab" d="M22 14h6v6h-6z"/>
+    <path fill="#ccd" d="M22 14h6v5h-6z"/>
+    <path fill="#aab" d="M15 14h6v6h-6z"/>
+    <path fill="#ccd" d="M15 14h6v5h-6z"/>
+    <path fill="#b6b" d="M8 14h6v6H8z"/>
+    <path fill="#d8d" d="M8 14h6v5H8z"/>
+    <path fill="#aab" d="M1 14h6v6H1z"/>
+    <path fill="#ccd" d="M1 14h6v5H1z"/>
+    <path fill="#aab" d="M40 7h6v6h-6z"/>
+    <path fill="#ccd" d="M40 7h6v5h-6z"/>
+    <path fill="#aab" d="M33 7h6v6h-6z"/>
+    <path fill="#ccd" d="M33 7h6v5h-6z"/>
+    <path fill="#aab" d="M26 7h6v6h-6z"/>
+    <path fill="#ccd" d="M26 7h6v5h-6z"/>
+    <path fill="#aab" d="M19 7h6v6h-6z"/>
+    <path fill="#ccd" d="M19 7h6v5h-6z"/>
+    <path fill="#aab" d="M12 7h6v6h-6z"/>
+    <path fill="#ccd" d="M12 7h6v5h-6z"/>
+    <path fill="#aab" d="M5 7h6v6H5z"/>
+    <path fill="#ccd" d="M5 7h6v5H5z"/>
+    <path fill="#aab" d="M0 7h4v6H0z"/>
+    <path fill="#ccd" d="M0 7h4v5H0z"/>
+  </g>
+  <circle cx="24" cy="24" r="22.5" stroke="#aab"/>
+  <circle cx="24" cy="24" r="23.5" stroke="#889"/>
+</svg>
