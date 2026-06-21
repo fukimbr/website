@@ -1,6 +1,7 @@
 .hero {
-  height: 233px;
-  margin: auto 0;
+  max-width: 328px;
+  height: 118px;
+  margin: auto;
   position: relative;
 }
 
@@ -14,17 +15,17 @@
 }
 
 .left-keyboard {
-  width: 276px;
-  height: 228px;
-  left: 41px;
+  width: 188px;
+  height: 114px;
+  left: 0;
   background-image: url("../images/left-keyboard.svg");
   animation: moveLeftThenDown 7s steps(1, end) forwards;
 }
 
 .right-keyboard {
-  width: 294px;
-  height: 228px;
-  left: 361px;
+  width: 147px;
+  height: 114px;
+  left: 185px;
   background-image: url("../images/right-keyboard.svg");
   animation: moveRight 7s steps(1, end) forwards;
 }
@@ -35,35 +36,35 @@
   }
 
   14% {
-    transform: translateX(-10px);
+    transform: translateX(-5px);
   }
 
   28% {
-    transform: translateX(-20px);
+    transform: translateX(-10px);
   }
 
   42% {
-    transform: translateX(-30px);
+    transform: translateX(-15px);
   }
 
   58% {
-    transform: translateX(-40px);
+    transform: translateX(-20px);
   }
 
   72% {
-    transform: translateX(-50px);
+    transform: translateX(-25px);
   }
 
   86% {
-    transform: translateX(-60px);
+    transform: translateX(-30px);
   }
 
   99% {
-    transform: translateX(-62px);
+    transform: translateX(-31px);
   }
 
   100% {
-    transform: translateX(-61px);
+    transform: translateX(-30px);
   }
 }
 
@@ -73,10 +74,10 @@
   }
 
   84% {
-    transform: translate(0, 8px);
+    transform: translate(0, 4px);
   }
 
   100% {
-    transform: translate(0, 8px);
+    transform: translate(0, 4px);
   }
 }
