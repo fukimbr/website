@@ -1,0 +1,82 @@
+.hero {
+  height: 233px;
+  margin: auto 0;
+  position: relative;
+}
+
+.left-keyboard,
+.right-keyboard {
+  position: absolute;
+  top: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.left-keyboard {
+  width: 276px;
+  height: 228px;
+  left: 41px;
+  background-image: url("../images/left-keyboard.svg");
+  animation: moveLeftThenDown 7s steps(1, end) forwards;
+}
+
+.right-keyboard {
+  width: 294px;
+  height: 228px;
+  left: 361px;
+  background-image: url("../images/right-keyboard.svg");
+  animation: moveRight 7s steps(1, end) forwards;
+}
+
+@keyframes moveRight {
+  0% {
+    transform: translateX(0);
+  }
+
+  14% {
+    transform: translateX(-10px);
+  }
+
+  28% {
+    transform: translateX(-20px);
+  }
+
+  42% {
+    transform: translateX(-30px);
+  }
+
+  58% {
+    transform: translateX(-40px);
+  }
+
+  72% {
+    transform: translateX(-50px);
+  }
+
+  86% {
+    transform: translateX(-60px);
+  }
+
+  99% {
+    transform: translateX(-62px);
+  }
+
+  100% {
+    transform: translateX(-61px);
+  }
+}
+
+@keyframes moveLeftThenDown {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  84% {
+    transform: translate(0, 8px);
+  }
+
+  100% {
+    transform: translate(0, 8px);
+  }
+}

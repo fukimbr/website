@@ -1,12 +1,10 @@
 body {
+  font-family: sans-serif;
   max-width: 640px;
   margin: 20px auto;
+  background-color: #fffff7;
 }
 
-section {
+header {
   text-align: center;
-}
-
-img.avatar {
-  width: 280px;
 }
